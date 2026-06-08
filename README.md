@@ -192,7 +192,7 @@ KCB/
 python main.py
 ```
 
-**Dashboard interaktif Streamlit:**
+**interaktif Streamlit:**
 ```bash
 streamlit run app.py
 ```
